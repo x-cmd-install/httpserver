@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6047480,
       "digest": null,
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2020-07-21T05:40:21Z",
       "updated_at": "2020-07-21T05:40:22Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_darwin_amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4788224,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2020-07-21T05:40:22Z",
       "updated_at": "2020-07-21T05:40:23Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_freebsd_386"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5562368,
       "digest": null,
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2020-07-21T05:40:25Z",
       "updated_at": "2020-07-21T05:40:26Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_linux_amd64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4694016,
       "digest": null,
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2020-07-21T05:40:34Z",
       "updated_at": "2020-07-21T05:40:35Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_windows_386.exe"
