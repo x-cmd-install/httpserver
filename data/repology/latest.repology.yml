@@ -1,0 +1,165 @@
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.2.17
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.2.19
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.2.20
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.2.21
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.2.22
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.43
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.46
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.48
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.49
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.50
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.51
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.52
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.53
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.54
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: npackd_stable
+  srcname: org.apache.httpd.HTTPServer
+  binname: org.apache.httpd.HTTPServer
+  visiblename: Apache HTTP Server
+  version: 2.4.55
+  origversion: null
+  status: unique
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
