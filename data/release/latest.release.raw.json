@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6047480,
       "digest": null,
-      "download_count": 28,
+      "download_count": 29,
       "created_at": "2020-07-21T05:40:21Z",
       "updated_at": "2020-07-21T05:40:22Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_darwin_amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5562368,
       "digest": null,
-      "download_count": 94,
+      "download_count": 95,
       "created_at": "2020-07-21T05:40:25Z",
       "updated_at": "2020-07-21T05:40:26Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_linux_amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5308416,
       "digest": null,
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2020-07-21T05:40:26Z",
       "updated_at": "2020-07-21T05:40:27Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_linux_arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 4775936,
       "digest": null,
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2020-07-21T05:40:30Z",
       "updated_at": "2020-07-21T05:40:31Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_openbsd_386"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5242880,
       "digest": null,
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2020-07-21T05:40:33Z",
       "updated_at": "2020-07-21T05:40:34Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_openbsd_arm64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5445632,
       "digest": null,
-      "download_count": 59,
+      "download_count": 60,
       "created_at": "2020-07-21T05:40:35Z",
       "updated_at": "2020-07-21T05:40:37Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_windows_amd64.exe"
