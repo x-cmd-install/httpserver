@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5562368,
       "digest": null,
-      "download_count": 95,
+      "download_count": 96,
       "created_at": "2020-07-21T05:40:25Z",
       "updated_at": "2020-07-21T05:40:26Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_linux_amd64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5445632,
       "digest": null,
-      "download_count": 60,
+      "download_count": 61,
       "created_at": "2020-07-21T05:40:35Z",
       "updated_at": "2020-07-21T05:40:37Z",
       "browser_download_url": "https://github.com/txthinking/httpserver/releases/download/v20200722/httpserver_windows_amd64.exe"
